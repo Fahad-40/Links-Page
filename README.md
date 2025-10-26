@@ -7,11 +7,11 @@ It serves as a digital business card showing your profile picture, bio, and soci
 
 ## 🚀 Features
 
-💎 Minimal & Modern Design — Simple yet visually appealing layout.
-🌈 Gradient Background — Soft color gradient adds a professional look.
-🖱️ Smooth Hover Effects — Links and card animate beautifully on hover.
-📱 Responsive Layout — Works well on different screen sizes.
-⚡ Lightweight & Fast — No frameworks, no JavaScript — just HTML and CSS.
+-💎 Minimal & Modern Design — Simple yet visually appealing layout.
+-🌈 Gradient Background — Soft color gradient adds a professional look.
+-🖱️ Smooth Hover Effects — Links and card animate beautifully on hover.
+-📱 Responsive Layout — Works well on different screen sizes.
+-⚡ Lightweight & Fast — No frameworks, no JavaScript — just HTML and CSS.
 
 ---
 
