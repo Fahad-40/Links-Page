@@ -16,9 +16,9 @@ It serves as a digital business card showing your profile picture, bio, and soci
 ---
 
 ## 🛠️ Technologies Used
-HTML5
-CSS3
-Google Fonts 
+- HTML5
+- CSS3
+- Google Fonts 
 
 ---
 
