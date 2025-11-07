@@ -32,6 +32,3 @@ While building this project, I learned:
 - The importance of **clean typography, spacing, and alignment** for a polished, professional UI.
 
 ---
-
-Feel free to connect with me or suggest improvements! 😊  
-🔗 [Your Portfolio Link] | 💼 [LinkedIn] | 🐙 [GitHub]
