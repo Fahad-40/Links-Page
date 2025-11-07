@@ -1,6 +1,6 @@
 # 🌐 Personal Links Page using HTML & CSS
 
-> A clean and modern personal links page that works as your digital business card — showcasing your profile picture, bio, and social links, all in one elegant, responsive design.
+> A clean and modern personal links page that works as your digital business card showcasing your profile picture, bio, and social links, all in one elegant, responsive design.
 
 ---
 
